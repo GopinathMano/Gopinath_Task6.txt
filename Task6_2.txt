@@ -1,0 +1,46 @@
+ 1) <!DOCTYPE html>
+<html>
+<body>
+ <script>
+ alert("Im JavaScript !");
+ </script>
+ Whats the error in this ?
+</body>
+</html> 
+
+
+2)
+ <!DOCTYPE html>
+<html>
+<body>
+ <script src=”scripts.js”></script>
+</body>
+</html>
+
+3)
+<!DOCTYPE html>
+<html>
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+let fname = 10.5;
+fname = "Guvi";
+let lname = "geek";
+let name = fname + lname;
+alert(`hello ${name}`);
+
+4)
+<!DOCTYPE html>
+<html>
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+let a = prompt("First number?");
+let b = prompt("Second number?");
+alert(+a + +b);
+
+5)
